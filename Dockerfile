@@ -1,6 +1,7 @@
 FROM centos/python-36-centos7
 
-COPY base /app/base
+COPY base /app
+COPY base /app/beta
 WORKDIR /app
 
 EXPOSE 8889
