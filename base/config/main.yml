@@ -50,6 +50,8 @@ automation-analytics:
         title: Automation calculator
       - id: notifications
         title: Notifications
+      - id: job-explorer
+        title: Job Explorer
 
 automation-hub:
   title: Automation Hub
